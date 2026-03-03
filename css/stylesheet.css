@@ -4,4 +4,8 @@ body { background: #f5f5fa; color: #1f1f29; }
     margin: auto;
     background-color: white;
     border: 1px solid black;
+    p {
+  font-size: 18px;
+  margin-top: 20px;
+}
  }
